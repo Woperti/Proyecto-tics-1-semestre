@@ -1,8 +1,18 @@
-# Proyecto-tics-1-semestre
+# Proyecto-tics
+
+Parte 1
+1. Encuesta
+2. Planeacion y seguimiento
+3. Storytelling 
+4. Presentacion
+5. Investigacion y diseño de usuario
+
 
 
 Ejemplo de story telling: 
-Usa lsp datos recabados en la encuesta. 
+Usa los datos recabados en la encuesta, la preignta y el planteamiento del problema con 
+el que se hizo la encuesta. 
+
 Aquí tienes un enfoque paso a paso para desarrollar un proyecto sobre una problemática escolar usando storytelling a nivel preparatoria. El storytelling ayudará a captar la atención de los lectores y a comunicar la importancia del problema y las posibles soluciones de una manera impactante y memorable.
 
 Ejemplo de Problema: La Falta de Hábitos de Estudio en los Estudiantes de Bachillerato
