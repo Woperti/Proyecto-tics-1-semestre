@@ -6,14 +6,23 @@ Parte 1
 3. Storytelling 
 4. Presentacion
 5. Investigacion y diseño de usuario
+6. Mockups iniciales 
 
+1. Definir un problema local dentro del plantel y crea runa encuetsa suando google forms
+u otra herrmaienta. Recabar datos con esas preguntas.
 
+2. Crear una tabla en excel con la planeacion
+con las columnas: Fecha de inicio|Actividades|Participantes|Fecha limite|Estado|prioridad
+* Estado y prioridad como opcional si lo consideran necesario. 
+Crear las tareas en Trello y asignar miembros del equipo que lo hagan.
 
+3. 
 Ejemplo de story telling: 
 Usa los datos recabados en la encuesta, la preignta y el planteamiento del problema con 
-el que se hizo la encuesta. 
+el que se hizo la encuesta.
 
-Aquí tienes un enfoque paso a paso para desarrollar un proyecto sobre una problemática escolar usando storytelling a nivel preparatoria. El storytelling ayudará a captar la atención de los lectores y a comunicar la importancia del problema y las posibles soluciones de una manera impactante y memorable.
+Enfoque paso a paso para desarrollar un proyecto sobre una problemática escolar usando storytelling. 
+El storytelling ayudará a captar la atención de los lectores y a comunicar la importancia del problema y las posibles soluciones.
 
 Ejemplo de Problema: La Falta de Hábitos de Estudio en los Estudiantes de Bachillerato
 
@@ -98,3 +107,4 @@ Conclusión
 Referencias
 
 	Citas, estudios y fuentes utilizadas en la investigación.
+
