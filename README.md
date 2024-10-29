@@ -110,3 +110,56 @@ Referencias
 
 	Citas, estudios y fuentes utilizadas en la investigación.
 
+Presentacion
+
+Para la Primera Parte, enfocada en la investigación, organización y planificación del proyecto. Esto les ayudará a estructurar su trabajo y comunicarlo de forma clara.
+
+Instrucciones para la Presentación en PowerPoint o Google Slides
+
+Objetivo: Que los estudiantes expongan el análisis del problema, su planeación y organización del proyecto, destacando las herramientas de seguimiento y el cronograma.
+
+Estructura de la Presentación
+
+	1.	Portada
+	•	Nombre del proyecto.
+	•	Nombre de los integrantes.
+	•	Curso y fecha.
+	2.	Introducción al Problema
+	•	Descripción breve: Enfoque en la problemática escolar que están resolviendo.
+	•	Storytelling: Narrativa o historia que desarrollaron, mostrando cómo la problemática afecta a los estudiantes.
+	•	Importancia: Razón por la cual eligieron esta problemática y el impacto que esperan lograr.
+	3.	Objetivos del Proyecto
+	•	Objetivo principal: Descripción clara y concisa del objetivo general de su proyecto.
+	•	Metas específicas: Indicadores clave para medir el éxito de su proyecto (pueden enlistar de 2 a 3 metas).
+	4.	Análisis del Problema
+	•	Datos clave o estadísticas: Puntos de información que respalden la problemática (si es posible).
+	•	Causas y consecuencias: Presentación de causas principales y los efectos de la problemática. Pueden usar viñetas o un diagrama sencillo.
+	5.	Planeación y Organización
+	•	Uso de Trello o Google Sheets/Excel:
+	•	Explicación de cómo organizaron las tareas y dividieron el trabajo.
+	•	Capturas de pantalla de su tablero en Trello o Google Sheets, mostrando las columnas o secciones utilizadas (ej. “Pendiente,” “En Proceso,” “Completado”).
+	•	Cronograma o Timeline:
+	•	Breve cronograma con las fases del proyecto y fechas estimadas de entrega.
+	•	Roles y responsables de cada tarea principal.
+	6.	Propuesta de Solución
+	•	Resumen: Explicación breve de la solución que planean implementar.
+	•	Impacto esperado: Cómo esta solución beneficiará a los estudiantes y resolverá la problemática identificada.
+	7.	Seguimiento y Evaluación
+	•	Progreso: Explicación de cómo planean monitorear el progreso, como reuniones semanales de revisión.
+	•	Herramientas de seguimiento: Ejemplos de cómo usarán Trello o Google Sheets para ver el avance.
+	8.	Conclusión
+	•	Resumen: Revisión rápida de los puntos clave (problema, objetivos, organización).
+	•	Expectativas: Resultados esperados al finalizar esta primera fase.
+
+Consejos para la Presentación
+
+	•	Visualización clara: Usen gráficos, tablas y diagramas cuando sea posible.
+	•	Puntos clave: Mantengan el texto en las diapositivas breve y directo.
+	•	Organización: Sigan el orden propuesto para que la presentación fluya y los espectadores entiendan cada sección.
+
+Recursos Sugeridos
+
+	•	Trello: Para organizar el proyecto, dividir tareas y visualizar el progreso.
+	•	Google Sheets o Excel: Para control de tareas y fechas.
+	•	PowerPoint o Google Slides: Para crear una presentación atractiva y profesional.
+
