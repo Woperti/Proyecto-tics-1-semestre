@@ -117,6 +117,7 @@ Referencias
 
 Ejemplo de un equipo de 5 semestre
 
+[docs](./stor.png)
 [docs](./story1.png)
 [docs](./story2.png)
 [docs](./story3.png)
