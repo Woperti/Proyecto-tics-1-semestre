@@ -193,3 +193,6 @@ Ejemplo de un equipo de 5 semestre
 ![presentacion](./pres4.png)
 ![presentacion](./pres5.png)
 ![presentacion](./pres6.png)
+![presentacion](./pres7.png)
+![presentacion](./pres8.png)
+![presentacion](./pres9.png)
