@@ -20,8 +20,8 @@ Crear las tareas en Trello y asignar miembros del equipo que lo hagan.
 
 Ejemplo de Planeacion. Hecha por alumnos de 1 semestre.
 
-[tabla](./tabla1.png)
-[tabla](./tabla2.png)
+![tabla](./tabla1.png)
+![tabla](./tabla2.png)
 
 3. 
 Ejemplo de story telling: 
@@ -117,19 +117,19 @@ Referencias
 
 Ejemplo de un equipo de 5 semestre
 
-[docs](./stor.png)
-[docs](./story1.png)
-[docs](./story2.png)
-[docs](./story3.png)
-[docs](./story4.png)
-[docs](./story5.png)
-[docs](./story6.png)
-[docs](./story7.png)
-[docs](./story8.png)
-[docs](./story9.png)
-[docs](./story10.png)
-[docs](./story11.png)
-[docs](./story12.png)
+![docs](./stor.png)
+![docs](./story1.png)
+![docs](./story2.png)
+![docs](./story3.png)
+![docs](./story4.png)
+![docs](./story5.png)
+![docs](./story6.png)
+![docs](./story7.png)
+![docs](./story8.png)
+![docs](./story9.png)
+![docs](./story10.png)
+![docs](./story11.png)
+![docs](./story12.png)
 
 Presentacion
 
@@ -187,9 +187,9 @@ Recursos Sugeridos
 
 Ejemplo de un equipo de 5 semestre
 
-[presentacion](./pres1.png)
-[presentacion](./pres2.png)
-[presentacion](./pres3.png)
-[presentacion](./pres4.png)
-[presentacion](./pres5.png)
-[presentacion](./pres6.png)
+![presentacion](./pres1.png)
+![presentacion](./pres2.png)
+![presentacion](./pres3.png)
+![presentacion](./pres4.png)
+![presentacion](./pres5.png)
+![presentacion](./pres6.png)
