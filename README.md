@@ -10,7 +10,7 @@ Parte 1
 
 Encuesta 
 Definir un problema local dentro del plantel y crea runa encuetsa suando google forms
-u otra herrmaienta. Recabar datos con esas preguntas.
+u otra herramienta. Recabar datos con esas preguntas.
 
 Planeacion
 Crear una tabla en excel con la planeacion
@@ -123,6 +123,12 @@ Ejemplo de un equipo de 5 semestre
 [docs](./story4.png)
 [docs](./story5.png)
 [docs](./story6.png)
+[docs](./story7.png)
+[docs](./story8.png)
+[docs](./story9.png)
+[docs](./story10.png)
+[docs](./story11.png)
+[docs](./story12.png)
 
 Presentacion
 
