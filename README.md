@@ -18,6 +18,11 @@ con las columnas: Fecha de inicio|Actividades|Participantes|Fecha limite|Estado|
 * Estado y prioridad como opcional si lo consideran necesario. 
 Crear las tareas en Trello y asignar miembros del equipo que lo hagan.
 
+Ejemplo de Planeacion. Hecha por alumnos de 1 semestre.
+
+[tabla](./tabla1.png)
+[tabla](./tabla2.png)
+
 3. 
 Ejemplo de story telling: 
 Usa los datos recabados en la encuesta, la pregunta y el planteamiento del problema con 
@@ -110,6 +115,15 @@ Referencias
 
 	Citas, estudios y fuentes utilizadas en la investigación.
 
+Ejemplo de un equipo de 5 semestre
+
+[docs](./story1.png)
+[docs](./story2.png)
+[docs](./story3.png)
+[docs](./story4.png)
+[docs](./story5.png)
+[docs](./story6.png)
+
 Presentacion
 
 Para la Primera Parte, enfocada en la investigación, organización y planificación del proyecto. Esto les ayudará a estructurar su trabajo y comunicarlo de forma clara.
@@ -163,3 +177,12 @@ Recursos Sugeridos
 	•	Google Sheets o Excel: Para control de tareas y fechas.
 	•	PowerPoint o Google Slides: Para crear una presentación atractiva y profesional.
 
+
+Ejemplo de un equipo de 5 semestre
+
+[presentacion](./pres1.png)
+[presentacion](./pres2.png)
+[presentacion](./pres3.png)
+[presentacion](./pres4.png)
+[presentacion](./pres5.png)
+[presentacion](./pres6.png)
