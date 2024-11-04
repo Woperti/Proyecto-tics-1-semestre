@@ -187,12 +187,12 @@ Recursos Sugeridos
 
 Ejemplo de un equipo de 5 semestre
 
-![presentacion](./pres1.png)
-![presentacion](./pres2.png)
-![presentacion](./pres3.png)
-![presentacion](./pres4.png)
-![presentacion](./pres5.png)
-![presentacion](./pres6.png)
-![presentacion](./pres7.png)
-![presentacion](./pres8.png)
-![presentacion](./pres9.png)
+![presentacion](./pres1.jpeg)
+![presentacion](./pres2.jpeg)
+![presentacion](./pres3.jpeg)
+![presentacion](./pres4.jpeg)
+![presentacion](./pres5.jpeg)
+![presentacion](./pres6.jpeg)
+![presentacion](./pres7.jpeg)
+![presentacion](./pres8.jpeg)
+![presentacion](./pres9.jpeg)
